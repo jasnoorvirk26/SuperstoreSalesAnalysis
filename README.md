@@ -20,7 +20,7 @@ The `Superstore-Sales-SQL-Analysis.sql` file includes:
 2. **Pivot Table for Total Sales by Product Category and Sub-Category**: Generates a pivot table showing total sales by category and sub-category.
 3. **Customer with Maximum Orders in Each Category**: Identifies the customer who has placed the most orders in each category.
 4. **Top 3 Products by Sales in Each Category**: Finds the top 3 products in each category based on sales.
-5. **Stored Procedure: Get Customer Orders**: A stored procedure that retrieves details of customer orders based on the input `CustomerID`.
+5. **Stored Procedure: Get Customer Orders**: A stored procedure that retrieves details of customer orders based on the input `Customer ID`.
 6. **User-Defined Function: Date Difference**: Calculates the number of days between two dates.
 
 You can download the full SQL file here:
