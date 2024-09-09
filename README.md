@@ -11,7 +11,7 @@ This project focuses on analyzing sales data from a US Superstore using SQL and 
 The SQL analysis includes data cleaning and various queries for detailed analysis. All SQL queries and procedures are contained in the `Superstore-Sales-SQL-Analysis.sql` file.
 
 ### Data Cleaning
-- **Data Cleaning**: The dataset was cleaned using SQL to handle issues such as missing values, duplicates, and inconsistencies. This ensured that the analysis was based on accurate and reliable data.
+- **Data Cleaning**: The dataset was cleaned using SQL to handle issues such as duplicates, and inconsistencies. This ensured that the analysis was based on accurate and reliable data.
 
 ### SQL Queries and Data Cleaning
 The `Superstore-Sales-SQL-Analysis.sql` file includes:
@@ -45,7 +45,7 @@ The full Power BI dashboard file is available here:
 
 ## Data Source
 The analysis uses a sample sales orders dataset with the following columns:
-- Order ID, Order Date, Customer ID, Product Category, Sub-Category, Sales, Profit, Quantity, etc.
+- Order ID, Order Date, Customer ID, Category, Sub-Category, Sales, Profit, Quantity, etc.
 
 You can find the data used for this analysis here: [Data](Orders.csv)
 
@@ -60,7 +60,7 @@ You can view the presentation here:
 ## How to Run This Project
 
 ### SQL Queries
-- Import the sales orders data into your SQL environment (e.g., MySQL, SQL Server) and run the provided SQL scripts to perform the analyses.
+- Import the sales orders data into your SQL environment (e.g. SQL Server) and run the provided SQL scripts to perform the analyses.
 
 ### Power BI Dashboard
 - Open the `.pbix` file in Power BI Desktop to explore the dashboard and perform further analyses.
