@@ -41,7 +41,7 @@ The Power BI dashboard visualizes key aspects of the sales data. Key analyses in
 - **Measures in Power BI**: Custom measures were created using DAX (Data Analysis Expressions) to enhance the analysis and visualization capabilities of the Power BI dashboard. This includes calculations for metrics like profit margins and cumulative sales.
 
 The full Power BI dashboard file is available here:
-- [Sales Orders Dashboard](PowerBI_Dashboard/Sales_Orders_Dashboard.pbix)
+- [Sales Orders Dashboard](Superstore-Sales-Analysis-Dashboard.pbix.pbix)
 
 ## Data Source
 The analysis uses a sample sales orders dataset with the following columns:
